@@ -1915,6 +1915,7 @@
   "version" "2.0.3"
 
 "abbrev@1":
+  "resolved" "https://registry.npmjs.org/abbrev/-/abbrev-1.1.1.tgz"
   "version" "1.1.1"
 
 "accepts@~1.3.4", "accepts@~1.3.5", "accepts@~1.3.7":
@@ -2213,6 +2214,7 @@
     "picomatch" "^2.0.4"
 
 "aproba@^1.0.3":
+  "resolved" "http://registry.npm.taobao.org/aproba/download/aproba-1.2.0.tgz"
   "version" "1.2.0"
 
 "aproba@^1.1.1":
@@ -3490,6 +3492,7 @@
   "version" "1.2.0"
 
 "console-control-strings@^1.0.0", "console-control-strings@~1.1.0":
+  "resolved" "https://registry.npmjs.org/console-control-strings/-/console-control-strings-1.1.0.tgz"
   "version" "1.1.0"
 
 "constants-browserify@^1.0.0":
@@ -4148,6 +4151,7 @@
     "regexp.prototype.flags" "^1.2.0"
 
 "deep-extend@^0.6.0":
+  "resolved" "https://registry.npmjs.org/deep-extend/-/deep-extend-0.6.0.tgz"
   "version" "0.6.0"
 
 "deep-is@~0.1.3":
@@ -4223,6 +4227,7 @@
   "version" "3.2.0"
 
 "delegates@^1.0.0":
+  "resolved" "https://registry.npmjs.org/delegates/-/delegates-1.0.0.tgz"
   "version" "1.0.0"
 
 "depd@~1.1.2":
@@ -5592,6 +5597,7 @@
   "version" "1.0.1"
 
 "gauge@~2.7.3":
+  "resolved" "https://registry.npmjs.org/gauge/-/gauge-2.7.4.tgz"
   "version" "2.7.4"
   dependencies:
     "aproba" "^1.0.3"
@@ -5834,6 +5840,7 @@
   "version" "1.0.1"
 
 "has-unicode@^2.0.0":
+  "resolved" "https://registry.npmjs.org/has-unicode/-/has-unicode-2.0.1.tgz"
   "version" "2.0.1"
 
 "has-value@^0.3.1":
@@ -6101,6 +6108,7 @@
     "safer-buffer" ">= 2.1.2 < 3"
 
 "iconv-lite@^0.4.4":
+  "resolved" "https://registry.npm.taobao.org/iconv-lite/download/iconv-lite-0.4.24.tgz?cache=0&sync_timestamp=1579333981154&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Ficonv-lite%2Fdownload%2Ficonv-lite-0.4.24.tgz"
   "version" "0.4.24"
   dependencies:
     "safer-buffer" ">= 2.1.2 < 3"
@@ -8045,6 +8053,7 @@
     "minipass" "^3.0.0"
 
 "minipass@^2.6.0", "minipass@^2.8.6", "minipass@^2.9.0":
+  "resolved" "https://registry.npmjs.org/minipass/-/minipass-2.9.0.tgz"
   "version" "2.9.0"
   dependencies:
     "safe-buffer" "^5.1.2"
@@ -8378,6 +8387,7 @@
     "npm-normalize-package-bin" "^1.0.1"
 
 "npm-normalize-package-bin@^1.0.1":
+  "resolved" "https://registry.npmjs.org/npm-normalize-package-bin/-/npm-normalize-package-bin-1.0.1.tgz"
   "version" "1.0.1"
 
 "npm-packlist@^1.1.6":
@@ -8639,6 +8649,7 @@
   "version" "0.3.0"
 
 "os-homedir@^1.0.0":
+  "resolved" "https://registry.npmjs.org/os-homedir/-/os-homedir-1.0.2.tgz"
   "version" "1.0.2"
 
 "os-locale@^3.0.0":
@@ -8651,6 +8662,7 @@
     "mem" "^4.0.0"
 
 "os-tmpdir@^1.0.0":
+  "resolved" "http://registry.npm.taobao.org/os-tmpdir/download/os-tmpdir-1.0.2.tgz"
   "version" "1.0.2"
 
 "os-tmpdir@~1.0.2":
@@ -8659,6 +8671,7 @@
   "version" "1.0.2"
 
 "osenv@^0.1.4":
+  "resolved" "https://registry.npmjs.org/osenv/-/osenv-0.1.5.tgz"
   "version" "0.1.5"
   dependencies:
     "os-homedir" "^1.0.0"
@@ -11536,6 +11549,7 @@
   "version" "2.0.0"
 
 "set-blocking@~2.0.0":
+  "resolved" "http://registry.npm.taobao.org/set-blocking/download/set-blocking-2.0.0.tgz"
   "version" "2.0.0"
 
 "set-value@^2.0.0", "set-value@^2.0.1":
@@ -12165,6 +12179,7 @@
   "version" "3.1.1"
 
 "strip-json-comments@~2.0.1":
+  "resolved" "https://registry.npmjs.org/strip-json-comments/-/strip-json-comments-2.0.1.tgz"
   "version" "2.0.1"
 
 "style-loader@0.23.1":
@@ -13378,6 +13393,7 @@
   "version" "4.0.0"
 
 "yallist@^3.0.0", "yallist@^3.0.3":
+  "resolved" "https://registry.npm.taobao.org/yallist/download/yallist-3.1.1.tgz?cache=0&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fyallist%2Fdownload%2Fyallist-3.1.1.tgz"
   "version" "3.1.1"
 
 "yallist@^3.0.2":
