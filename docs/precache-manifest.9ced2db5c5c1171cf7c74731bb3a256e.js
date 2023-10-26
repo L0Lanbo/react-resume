@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1c661ff4e5097b263772aa8e55c5e0bc",
+    "revision": "d1ec033d06cd622787ad88cb8992e041",
     "url": "/react-resume/index.html"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-resume/static/css/3.5821fad2.chunk.css"
   },
   {
-    "revision": "032d23b88ddbcf518f6d",
-    "url": "/react-resume/static/css/36.ad8e585d.chunk.css"
+    "revision": "7a182c47f995f301fc09",
+    "url": "/react-resume/static/css/36.19d3a9ef.chunk.css"
   },
   {
     "revision": "bd57af193990bf7574c9",
@@ -40,7 +40,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-resume/static/css/43.f824c340.chunk.css"
   },
   {
-    "revision": "22f750a8d250946aabfc",
+    "revision": "a7957138edc8c127ca95",
     "url": "/react-resume/static/css/Dashboard.e30b4fb7.chunk.css"
   },
   {
@@ -48,24 +48,24 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-resume/static/css/Error404.a560767f.chunk.css"
   },
   {
-    "revision": "549cbbc5551912120a14",
+    "revision": "f9ccb2d0dac6e8b24d66",
     "url": "/react-resume/static/css/Experience.6382134c.chunk.css"
   },
   {
-    "revision": "aa04599661ace5e7dc6a",
+    "revision": "05afe6bb3ad7b41f5d30",
     "url": "/react-resume/static/css/Project.91a03eb2.chunk.css"
   },
   {
-    "revision": "6c7ab3939221ff5dd6ce",
+    "revision": "8b90d6454abfd8eb7b8a",
     "url": "/react-resume/static/css/RichTextEditor.bae160b2.chunk.css"
   },
   {
-    "revision": "03f063b120f4dbb9266d",
+    "revision": "0e9a8d58ada75f6271d3",
     "url": "/react-resume/static/css/UploadExcel.1a5ea30f.chunk.css"
   },
   {
-    "revision": "3e3994b79f4ff38881f4",
-    "url": "/react-resume/static/css/main.0b1b0ce4.chunk.css"
+    "revision": "de0ec616bd7f26ec9eb2",
+    "url": "/react-resume/static/css/main.97c28e54.chunk.css"
   },
   {
     "revision": "cb6e7a59eb35f7d2b66e",
@@ -84,12 +84,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-resume/static/js/3.5b6fc4fd.chunk.js"
   },
   {
-    "revision": "032d23b88ddbcf518f6d",
-    "url": "/react-resume/static/js/36.26e89ebe.chunk.js"
+    "revision": "7a182c47f995f301fc09",
+    "url": "/react-resume/static/js/36.1a7d9906.chunk.js"
   },
   {
     "revision": "b3c1e8a9e2e16de74e7d6df3188064d8",
-    "url": "/react-resume/static/js/36.26e89ebe.chunk.js.LICENSE.txt"
+    "url": "/react-resume/static/js/36.1a7d9906.chunk.js.LICENSE.txt"
   },
   {
     "revision": "bd57af193990bf7574c9",
@@ -116,12 +116,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-resume/static/js/4.97476a04.chunk.js"
   },
   {
-    "revision": "8f6ca3a06af8974bae4e",
-    "url": "/react-resume/static/js/40.078ba096.chunk.js"
+    "revision": "ee40872f129123825322",
+    "url": "/react-resume/static/js/40.577f9e1f.chunk.js"
   },
   {
-    "revision": "cd3e36d702ab4b9c1dae",
-    "url": "/react-resume/static/js/41.efdc218e.chunk.js"
+    "revision": "6f5dc56d59a65d2b80c8",
+    "url": "/react-resume/static/js/41.7791bc46.chunk.js"
   },
   {
     "revision": "32af3168f75c1633915e",
@@ -152,72 +152,72 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-resume/static/js/6.4673226c.chunk.js"
   },
   {
-    "revision": "45450fedb2e5bc12da4f",
-    "url": "/react-resume/static/js/About.65568487.chunk.js"
+    "revision": "5efcaf405215a1546d26",
+    "url": "/react-resume/static/js/About.ad7a9e0a.chunk.js"
   },
   {
-    "revision": "a858515a08b638ec3d3b",
-    "url": "/react-resume/static/js/AdminPage.e9e0091a.chunk.js"
+    "revision": "548e0491956c4b9890e2",
+    "url": "/react-resume/static/js/AdminPage.ad745246.chunk.js"
   },
   {
-    "revision": "ad0ebbad664efa1e66dc",
-    "url": "/react-resume/static/js/Bug.162a2edb.chunk.js"
+    "revision": "82a8811ab5f8bd83a2ac",
+    "url": "/react-resume/static/js/Bug.4b371839.chunk.js"
   },
   {
     "revision": "9214843055c51cf6e15c",
     "url": "/react-resume/static/js/Clipboard.b80b7ac1.chunk.js"
   },
   {
-    "revision": "22f750a8d250946aabfc",
-    "url": "/react-resume/static/js/Dashboard.612ea67a.chunk.js"
+    "revision": "a7957138edc8c127ca95",
+    "url": "/react-resume/static/js/Dashboard.7cde031b.chunk.js"
   },
   {
-    "revision": "ba5d70d551c59f60fa0f",
-    "url": "/react-resume/static/js/Doc.6f75faf4.chunk.js"
+    "revision": "120a2dccb1ed6edd7174",
+    "url": "/react-resume/static/js/Doc.954f1468.chunk.js"
   },
   {
-    "revision": "70c789c19e3faaf3c783",
-    "url": "/react-resume/static/js/Draggable.40f7b47a.chunk.js"
+    "revision": "db4cb432ecfe9692aaa9",
+    "url": "/react-resume/static/js/Draggable.8cbe9757.chunk.js"
   },
   {
-    "revision": "dc28c0f5ef452e1500e9",
-    "url": "/react-resume/static/js/EditorPage.d5d45661.chunk.js"
+    "revision": "049154fc6b52da5e5248",
+    "url": "/react-resume/static/js/EditorPage.b54211f1.chunk.js"
   },
   {
     "revision": "8de684cbd0f7e6c78d14",
     "url": "/react-resume/static/js/Error404.63b6f872.chunk.js"
   },
   {
-    "revision": "549cbbc5551912120a14",
-    "url": "/react-resume/static/js/Experience.6f417fe8.chunk.js"
+    "revision": "f9ccb2d0dac6e8b24d66",
+    "url": "/react-resume/static/js/Experience.7991f587.chunk.js"
   },
   {
-    "revision": "3992de644f667af45e5f",
-    "url": "/react-resume/static/js/Explanation.d0da7c39.chunk.js"
+    "revision": "8bebc52565003d769545",
+    "url": "/react-resume/static/js/Explanation.8a05b324.chunk.js"
   },
   {
-    "revision": "98bc06819cdf702ddf97",
-    "url": "/react-resume/static/js/ExportExcel.46496a09.chunk.js"
+    "revision": "a93b5cd0303d82c3c187",
+    "url": "/react-resume/static/js/ExportExcel.1c665a26.chunk.js"
   },
   {
-    "revision": "86891de763a0d86a4005",
-    "url": "/react-resume/static/js/GuestPage.8e6a06df.chunk.js"
+    "revision": "945c75bec1d9c64e5fe8",
+    "url": "/react-resume/static/js/GuestPage.b7fa170b.chunk.js"
   },
   {
-    "revision": "729062eb2e5289d2d2ec",
-    "url": "/react-resume/static/js/Guide.4640bece.chunk.js"
+    "revision": "2999e3933c53d1f69a37",
+    "url": "/react-resume/static/js/Guide.04c576b6.chunk.js"
   },
   {
-    "revision": "5a16a8699538fe61b999",
-    "url": "/react-resume/static/js/KeyboardChart.ec463f96.chunk.js"
+    "revision": "c03025c1f2b0899ca7ee",
+    "url": "/react-resume/static/js/KeyboardChart.a3b1ec00.chunk.js"
   },
   {
-    "revision": "cc65aee958c632161a45",
-    "url": "/react-resume/static/js/LineChart.20b82e66.chunk.js"
+    "revision": "3210c4a76508babfdb52",
+    "url": "/react-resume/static/js/LineChart.e0fd9d33.chunk.js"
   },
   {
-    "revision": "19b3730221f7e1c6bfc8",
-    "url": "/react-resume/static/js/Markdown.5a558951.chunk.js"
+    "revision": "a626512b2f9efd6cbccb",
+    "url": "/react-resume/static/js/Markdown.506daaab.chunk.js"
   },
   {
     "revision": "fef36d4b7b9a6431c651",
@@ -228,44 +228,44 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-resume/static/js/Menu1_2_1.b5988438.chunk.js"
   },
   {
-    "revision": "2f8051b2953ee177a0f2",
-    "url": "/react-resume/static/js/MixChart.9fa0b246.chunk.js"
+    "revision": "2b71674c723fe43fb24f",
+    "url": "/react-resume/static/js/MixChart.b94ced93.chunk.js"
   },
   {
-    "revision": "aa04599661ace5e7dc6a",
-    "url": "/react-resume/static/js/Project.1c08d3fe.chunk.js"
+    "revision": "05afe6bb3ad7b41f5d30",
+    "url": "/react-resume/static/js/Project.909fa4b2.chunk.js"
   },
   {
-    "revision": "6c7ab3939221ff5dd6ce",
-    "url": "/react-resume/static/js/RichTextEditor.5e855605.chunk.js"
+    "revision": "8b90d6454abfd8eb7b8a",
+    "url": "/react-resume/static/js/RichTextEditor.8ba0a52a.chunk.js"
   },
   {
-    "revision": "476cacec4ecb2cccc156",
-    "url": "/react-resume/static/js/Table.3002c63f.chunk.js"
+    "revision": "b5d77d551ca9eedde09b",
+    "url": "/react-resume/static/js/Table.b39583c0.chunk.js"
   },
   {
-    "revision": "97a72a80d3b4c860aeba",
-    "url": "/react-resume/static/js/Tools.9062aa3a.chunk.js"
+    "revision": "740e68aef30838475ba9",
+    "url": "/react-resume/static/js/Tools.2a1b4e4e.chunk.js"
   },
   {
-    "revision": "03f063b120f4dbb9266d",
-    "url": "/react-resume/static/js/UploadExcel.3bcb5acb.chunk.js"
+    "revision": "0e9a8d58ada75f6271d3",
+    "url": "/react-resume/static/js/UploadExcel.b0f618b0.chunk.js"
   },
   {
-    "revision": "512b2c63ac32dc490b2b",
-    "url": "/react-resume/static/js/User.e7cd9c4b.chunk.js"
+    "revision": "6da1676494fbae8d7708",
+    "url": "/react-resume/static/js/User.560f6f2a.chunk.js"
   },
   {
-    "revision": "2108072fbe5c9a7e34c7",
-    "url": "/react-resume/static/js/Zip.15459b65.chunk.js"
+    "revision": "4ed25da1d6b8e0539615",
+    "url": "/react-resume/static/js/Zip.ed3b5afb.chunk.js"
   },
   {
-    "revision": "3e3994b79f4ff38881f4",
-    "url": "/react-resume/static/js/main.807c99d8.chunk.js"
+    "revision": "de0ec616bd7f26ec9eb2",
+    "url": "/react-resume/static/js/main.356bbdbb.chunk.js"
   },
   {
-    "revision": "444e701b7340a76b26de",
-    "url": "/react-resume/static/js/runtime-main.a6b8cb87.js"
+    "revision": "01b9cc321a10fc3559b8",
+    "url": "/react-resume/static/js/runtime-main.8029e6be.js"
   },
   {
     "revision": "9161e238b798c444b732dbbb7420a09e",
